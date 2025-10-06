@@ -46,7 +46,7 @@ img[src$=".jpg"] {
 }
 
 .bicicletas-lista a:hover h3::before {
-  width: 24px;
+  width: 23px;
 }
 
 .bicicletas-lista li span {
